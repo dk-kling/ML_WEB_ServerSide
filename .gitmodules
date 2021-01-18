@@ -1,0 +1,3 @@
+[submodule "react_frontend"]
+	path = react_frontend
+	url = https://github.com/jae-yong-2/ML_WEB.git
